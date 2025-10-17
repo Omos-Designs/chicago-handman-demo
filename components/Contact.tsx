@@ -131,7 +131,7 @@ export default function Contact() {
               Ready to Start Your Project?
             </h2>
             <p className="text-xl text-gray-600 mb-12">
-              Fill out the form and we'll get back to you within 24 hours with a free quote.
+              Fill out the form and we&apos;ll get back to you within 24 hours with a free quote.
             </p>
 
             <div className="space-y-6">
